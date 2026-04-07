@@ -2,3 +2,4 @@ venv/
 dataset/
 models/
 kaggle/
+__pycache__/
